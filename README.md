@@ -74,25 +74,25 @@ Valuation multiples considered:
 ## 4. Financial Model Screenshots
 
 ### 1. Income Statement
-![Income Statement](./Screenshots/Income_Statement.png)
+![Income Statement](./Income_Statement.png)
 
 ### 2. Balance Sheet
-![Balance Sheet](./Screenshots/Balance_Sheet.png)
+![Balance Sheet](./Balance_Sheet.png)
 
 ### 3. Cash Flow Statement
-![Cash Flow Statement](./Screenshots/Cash_Flow_Statement.png)
+![Cash Flow Statement](./Cash_Flow_Statement.png)
 
 ### 4. Common Size Income Statement
-![Common Size Income Statement](./Screenshots/Common_Size_Income_Statement.png)
+![Common Size Income Statement](./Common_Size_Income_Statement.png)
 
 ### 5. Common Size Balance Sheet
-![Common Size Balance Sheet](./Screenshots/Common_Size_Balance_Sheet.png)
+![Common Size Balance Sheet](./Common_Size_Balance_Sheet.png)
 
 ### 6. DCF Valuation
-![DCF Valuation](./Screenshots/DCF_Valuation.png)
+![DCF Valuation](./DCF_Valuation.png)
 
 ### 7. Comparable Company Analysis
-![Comparable Company Analysis](./Screenshots/Comparable_Company_Analysis.png)
+![Comparable Company Analysis](./Comparable_Company_Analysis.png)
 
 ---
 ## 5. Key Financial Observations
